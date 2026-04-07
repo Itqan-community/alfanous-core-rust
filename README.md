@@ -1,6 +1,7 @@
 # Alfanous Core
 
 A Rust port of the [Alfanous](https://github.com/Alfanous-team/alfanous) Quran semantic search engine, built as a standalone CLI tool for the RATQ project.
+This project was originally part of [Itqan-community/RATQ](https://github.com/Itqan-community/RATQ) and was split off to evolve freely as an independent crate.
 
 ## Features
 
